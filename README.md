@@ -9,6 +9,7 @@
 > [!WARNING]
 > Use only in environments where you have explicit authorization. Unauthorized use may be illegal.
 
+EDITED THIS REPO TO MAKE IT INSTALL WITH PYTHON 3.11 FOR PARROT OS RELEASES.
 ---
 
 ## 🔍 Features
